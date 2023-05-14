@@ -24,13 +24,13 @@
         >
 
         <androidx.cardview.widget.CardView
+            android:id="@+id/androiddev"
             android:layout_width="150dp"
             android:layout_height="150dp"
             android:layout_margin="20dp"
             app:cardBackgroundColor="@color/green">
 
             <TextView
-                android:id="@+id/androiddev"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Android Development"
@@ -43,13 +43,13 @@
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
+            android:id="@+id/webdev"
             android:layout_width="150dp"
             android:layout_height="150dp"
             android:layout_margin="20dp"
             app:cardBackgroundColor="@color/purple">
 
             <TextView
-                android:id="@+id/webdev"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Web Development"
@@ -69,13 +69,13 @@
         >
 
         <androidx.cardview.widget.CardView
+            android:id="@+id/iosdev"
             android:layout_width="150dp"
             android:layout_height="150dp"
             android:layout_margin="20dp"
             app:cardBackgroundColor="@color/brown">
 
             <TextView
-                android:id="@+id/iosdev"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="IOS Development"
@@ -88,13 +88,13 @@
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
+            android:id="@+id/ml"
             android:layout_width="150dp"
             android:layout_height="150dp"
             android:layout_margin="20dp"
             app:cardBackgroundColor="@color/dark_green">
 
             <TextView
-                android:id="@+id/ml"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Machine Learning"
@@ -114,13 +114,13 @@
         >
 
         <androidx.cardview.widget.CardView
+            android:id="@+id/bigdata"
             android:layout_width="150dp"
             android:layout_height="150dp"
             android:layout_margin="20dp"
             app:cardBackgroundColor="@color/navy_blue">
 
             <TextView
-                android:id="@+id/bigdata"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Big Data"
@@ -133,13 +133,13 @@
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
+            android:id="@+id/ai"
             android:layout_width="150dp"
             android:layout_height="150dp"
             android:layout_margin="20dp"
             app:cardBackgroundColor="@color/red">
 
             <TextView
-                android:id="@+id/ai"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Artificial Intelligence"
